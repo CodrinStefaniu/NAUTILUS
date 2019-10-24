@@ -1,1 +1,1 @@
-hello this is shit
+This is the image recognition project for NAUTILUS
